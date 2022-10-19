@@ -8,7 +8,7 @@
 
 Projeto construído no evento Next Level Week do RocketSeat.
 
-[Clique aqui para acessar](https://larissaiishikawa.github.io/nlw/)
+[Clique aqui para acessar](https://larissaiishikawa.github.io/mywebsite/)
 
 ## Tecnologias
 
